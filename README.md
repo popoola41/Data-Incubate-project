@@ -13,3 +13,11 @@ fred.stlouisfed.org
 - **Ms Excel for data cleaning** [Download here](www.microsoft.com)
 - *PowerBI Download* [here](https://microsoft.com)
 - Jupiter
+```
+
+GOOGLE QUERY
+
+SELECT *FROM TABLE 1
+WHERE CONDITIONS =NET
+
+```
