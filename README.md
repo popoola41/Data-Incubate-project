@@ -7,5 +7,5 @@ This project aims to generate insight into the sales performance of sports men a
 ## Data sources
 kaggle.com
 
-fred.stlouisted.com
+fred.stlouisfed.org
 ### Note: no copyright infringement
