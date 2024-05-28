@@ -9,3 +9,7 @@ kaggle.com
 
 fred.stlouisfed.org
 ### Note: no copyright infringement
+## Tools used
+- **Ms Excel for data cleaning** [Download here](www.microsoft.com)
+- *PowerBI Download* [here](https://microsoft.com)
+- Jupiter
